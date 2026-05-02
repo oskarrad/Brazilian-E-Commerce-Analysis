@@ -13,6 +13,9 @@ The analysis was performed using multiple tools:
 
 **Python** and **Excel** were intentionally used in parallel to compare approaches and results.
 
+## Project Structure  
+- Python implementation: [python/analysis.ipynb](python/analysis.ipynb)  
+
 ## [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv)
 The dataset consists of multiple related tables:
 - Customers
