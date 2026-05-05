@@ -15,7 +15,7 @@ The analysis was performed using multiple tools:
 
 ## Project Structure  
 - Python implementation: [python/analysis.ipynb](python/analysis.ipynb)
-- - SQL queries: [sql/queries.sql](SQL/queries.sql)
+- SQL queries: [sql/queries.sql](SQL/queries.sql)
 
 ## [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv)
 The dataset consists of multiple related tables:
