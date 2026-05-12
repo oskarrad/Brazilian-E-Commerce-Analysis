@@ -18,6 +18,10 @@ The analysis was performed using multiple tools:
 - SQL queries: [sql/queries.sql](SQL/queries.sql)
 - Power BI: [PowerBI/dashboard.pbix](PowerBI/dashboard.pbix)
 
+## Dashboard Preview
+
+<img width="1277" height="718" alt="dashboard" src="https://github.com/user-attachments/assets/5b5583b2-a36b-4bfa-9536-4c4a4c09e24c" />
+
 ## [Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_customers_dataset.csv)
 The dataset consists of multiple related tables:
 - Customers
